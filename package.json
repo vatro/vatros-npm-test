@@ -1,0 +1,23 @@
+{
+  "name": "vatros-npm-test",
+  "version": "0.119.0-5",
+  "description": "does nothing - just to test some npm features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/vatros-npm-test.git"
+  },
+  "keywords": [
+    "test",
+    "npm"
+  ],
+  "author": "Vatroslav Vrbanic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vatro/vatros-npm-test/issues"
+  },
+  "homepage": "https://github.com/vatro/vatros-npm-test#readme"
+}
