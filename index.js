@@ -1,3 +1,3 @@
 function hello_world() {
-  console.log("hello 0.119.0-10!")
+  console.log("hello 1.0.0-next.1!")
 }

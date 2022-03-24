@@ -1,6 +1,6 @@
 {
   "name": "vatros-npm-test",
-  "version": "0.119.0-10",
+  "version": "1.0.0-next.1",
   "description": "does nothing - just to test some npm features",
   "main": "index.js",
   "scripts": {
